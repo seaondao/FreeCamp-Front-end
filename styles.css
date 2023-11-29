@@ -74,7 +74,7 @@ code{
 /*Media query*/
 
 @media only screen and (max-width: 600px) {
-    body {
+    /*body {
       background-color: lightblue;
     }
     #navbar{
@@ -83,5 +83,5 @@ code{
     }
     main{
         margin-left: unset;
-    }
+    }*/
   }
